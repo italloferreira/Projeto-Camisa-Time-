@@ -1,0 +1,59 @@
+
+.card{
+    width: 300px;
+    height: 300px;
+    background-color: var(--soft-white);
+    color: var(--gray);
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px #22222270;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    transition: 0.5s;
+}
+
+.card:hover{
+    width: 320px;
+    height:320px;
+    background-color: var(--vermelhoCard);
+    transition: 0.5s;
+    color:var(--branco)
+}
+
+.card p {
+    color: var(--amarelo);
+}
+
+.card_footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card img{
+    width: 75%;
+    border-radius: 20px;
+    
+}
+
+.card div img{
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: start;
+}
+
+.card div{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.card div h3{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    min-height: 90vh;
+
+   display: flex;
+   justify-content: center;
+    
+
+    padding-block: 1rem;
+    gap: 1rem;
+}
+
+h3{
+    position: absolute;
+    text-align: center;
+    
+}

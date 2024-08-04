@@ -1,0 +1,122 @@
+[
+    { 
+        "id": 1, 
+        "name": "Palmeiras", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-palmeiras-especial1-3d87ec9412fdf515c217193560911232-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 2, 
+        "name": "Cruzeiro", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-cruzeiro-away1-deae8ea43d45fb904617175435488276-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 3, 
+        "name": "São Paulo", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-sao-paulo-away-01-9b2f2add617be9bd8117175428181132-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 4, 
+        "name": "Athletico Paranaense", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-sao-paulo-away-01-9b2f2add617be9bd8117175428181132-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 5, 
+        "name": "Vitória", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-vitoria-home2-96ad680b269ac2f68c17163228253633-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 6, 
+        "name": "Atlético Mineiro", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-atletico-mineiro-treino1-d2dcc0ee388f9cc92317163227408371-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 7, 
+        "name": "América Mineiro", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-america-mineiro-home1-074a6869c1f381157817163220047173-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 8, 
+        "name": "Botafogo", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-botafogo-fourth01-d393d7a02681fbe93116999069587421-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 9, 
+        "name": "Grêmio", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-gremio-home1-4b496365e4501d26ef17183249560414-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 10, 
+        "name": "Fluminense", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-fluminense-away1-7d3c585560bdd702af17145091262033-640-0.webp", 
+        "tipo": "Brasileirão" 
+    },
+    { 
+        "id": 11, 
+        "name": "Holanda", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-holanda-home1-beb476dab216dfa71f17164851525342-640-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 12, 
+        "name": "Espanha", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-da-espanha-home1-995d1504ee5b0d76bc17145111746724-480-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 13, 
+        "name": "Italia", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-italia-home1-1c178964581430b37c17044215827414-640-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 14, 
+        "name": "Argentina", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-argentina-home01-f8a008937e50d18c6f17098416889786-640-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 15, 
+        "name": "Portugal", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-portugal-treino1-6b1403cd55f5829f3f16977536708300-640-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 16, 
+        "name": "Brasil", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-do-brasil-amarela-home1-fd5fa6d231224fa34d17175425366456-640-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 17, 
+        "name": "França", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-franca-prejogo-011-893d43541e411a14cb16645651026172-640-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 18, 
+        "name": "Alemanha", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-alemanha-away1-821c9ca3aab24f083517145103100488-480-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 19, 
+        "name": "Japão", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-japao-away01-db99d526419f7367c516981731256367-640-0.webp", 
+        "tipo": "Internacional" 
+    },
+    { 
+        "id": 20, 
+        "name": "Equador", 
+        "image": "https://acdn.mitiendanube.com/stores/002/322/390/products/camisa-equador-home1-6abb3fea57a8a0de4817193568364619-640-0.webp", 
+        "tipo": "Internacional" 
+    }
+]

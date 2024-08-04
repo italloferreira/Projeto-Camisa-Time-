@@ -1,0 +1,61 @@
+
+.card {
+    width: 300px;
+    height: 300px;
+    background-color: var(--soft-white);
+    color: var(--gray);
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px #22222270;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    transition: 0.5s;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.card:hover{
+    width: 310px;
+    height:310px;
+    background-color: var(--vermelhoCard);
+    transition: 0.5s;
+    color:var(--branco);
+    font-size: 12px;
+}
+
+.tipo {
+    display: flex;
+    width: 50%;
+    font-size: 15px;
+    color: var(--amarelo);
+}
+
+
+
+.camisa{
+    width: 60%;
+    border-radius: 20px;
+}
+
+
+.nome{
+    display: flex;
+    width: 50%;
+}
+
+.logo{
+    border-radius: 20px;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: start;
+}
+
+.txt{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
