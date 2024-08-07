@@ -1,17 +1,16 @@
+
 .container {
     width: 100%;
-    min-height: 90vh;
-
-   display: flex;
-   justify-content: center;
-    
-
+    height: 100%;
     padding-block: 1rem;
     gap: 1rem;
+    position: relative;
 }
 
-h3{
+
+h3 {
     position: absolute;
     text-align: center;
-    
+    width: 100%;
+    font-size: 25px;
 }
